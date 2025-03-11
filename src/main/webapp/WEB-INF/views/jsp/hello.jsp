@@ -42,21 +42,21 @@
   <div class="row">
 	<div class="col-md-4">
 		<h2>New Course1</h2>
-		<p>Kubernetes new batch</p>
+		<p>Kubernetes</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
 		<h2>New Course1</h2>
-		<p>Jenkins world</p>
+		<p>Jenkins CI/CD </p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
 		<h2>New Course1</h2>
-		<p>Helm Chat</p>
+		<p>Helm Chat & Argo CD</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
