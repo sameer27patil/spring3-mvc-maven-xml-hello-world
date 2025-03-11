@@ -28,7 +28,7 @@
 		</c:if>
  
 		<c:if test="${empty name}">
-			Welcome Welcome!
+			Welcome Sameer Patil!
 		</c:if>
     </p>
     <p>
@@ -42,21 +42,21 @@
   <div class="row">
 	<div class="col-md-4">
 		<h2>New Course1</h2>
-		<p>Kubernetes</p>
+		<p>Kubernetes new batch</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
 		<h2>New Course1</h2>
-		<p>Jenkins</p>
+		<p>Jenkins world</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
 		<h2>New Course1</h2>
-		<p>Docker</p>
+		<p>Helm Chat</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
