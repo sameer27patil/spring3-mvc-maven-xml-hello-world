@@ -28,8 +28,7 @@
 		</c:if>
  
 		<c:if test="${empty name}">
-			Welcome Aarya Patil !
-			congratulation in 1st class!
+			Welcome Aarya Patil !			
 		</c:if>
     </p>
     <p>
@@ -50,14 +49,14 @@
 	</div>
 	<div class="col-md-4">
 		<h2>New Course1</h2>
-		<p>Jenkins Pipeline CI/CD</p>
+		<p>Jenkins CI/CD</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
 		<h2>New Course1</h2>
-		<p>Helm Chat & Argo CD</p>
+		<p>Helm Chat</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
