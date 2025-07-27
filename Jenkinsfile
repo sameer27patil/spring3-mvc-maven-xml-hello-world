@@ -1,3 +1,5 @@
-@Library("jmsdevops@main")
-pushEcrRepo(
-ecrRepoName: 'spring3-mvc-maven-xml-hello-world'
+@Library("jmsdevops@main") _ 
+pushDockerHub( 
+ecrRepoName: 'spring3-mvc-maven-xml-hello-world' 
+) 
+
