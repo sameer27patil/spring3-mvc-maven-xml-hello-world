@@ -4,5 +4,5 @@ ecrRepoName: 'spring3-mvc-maven-xml-hello-world'
 )
 @Library("jmsdevops@main") _ 
 pushEcrRepo( 
-ecrRepoName: 'spring3-mvc-maven-xml-hello-world'
+ecrRepoName: 'spring3-mvc-maven-xml-hello-world_shared_lib'
 )
